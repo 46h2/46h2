@@ -13,7 +13,7 @@
 
 ## 🧩 About Me
 - 🔧 I build **fast, scalable console apps** (C# / .NET 8)
-- 🌐 Focus areas: **raw networking**, **low-latency HTTP**, **proxy infrastructure**, **async/concurrency**
+- 🌐 Focus areas: **raw networking**, **low-latency HTTP**, **async/concurrency**
 - 🏎️ Side projects: **game server configs & tooling** (Assetto Corsa / AssettoServer)
 
 ---
@@ -40,8 +40,8 @@
 
 ## 🤝 Let’s Connect
 - GitHub: **@46h2**
-- Insta: *dtde*
-
+- Insta: **@dtde**
+- Discord: **@dtde**
 
 
 </div>
