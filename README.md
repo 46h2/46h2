@@ -1,16 +1,47 @@
-## Hi there 👋
+<!-- PROFILE README for: 46h2 -->
 
-<!--
-**46h2/46h2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Abdulrahman Alrwili
+### ⚡ High-Performance .NET • Networking • Concurrency • Tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Saudi Arabia • 🧠 Performance-obsessed builder • 🎯 Always optimizing
+
+</div>
+
+---
+
+## 🧩 About Me
+- 🔧 I build **fast, scalable console apps** (C# / .NET 8)
+- 🌐 Focus areas: **raw networking**, **low-latency HTTP**, **proxy infrastructure**, **async/concurrency**
+- 🏎️ Side projects: **game server configs & tooling** (Assetto Corsa / AssettoServer)
+
+---
+
+## 🛠️ Tech Stack
+**Languages**
+- C#, Java,  SQL (learning)
+
+**Core**
+- .NET 8, Async/Await, Channels, Sockets, TcpClient/SslStream
+- Performance: benchmarking, profiling, memory/GC tuning
+
+**Tools**
+- Visual Studio, Git, Wireshark/Fiddler-style debugging, Linux/Windows Server
+
+---
+
+## 🚀 What I’m Working On
+- ⚡ High-throughput networking clients & connection pooling
+- 🧵 Concurrency systems (producer/consumer pipelines)
+- 🔁 Auto-update + deployment workflows
+
+
+
+## 🤝 Let’s Connect
+- GitHub: **@46h2**
+- Insta: *dtde*
+
+
+
+</div>
