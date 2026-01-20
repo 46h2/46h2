@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 **Languages**
-- C#, Java,  SQL (learning)
+- C#, Java,  SQL (learning), Python (Beginner level)
 
 **Core**
 - .NET 8, Async/Await, Channels, Sockets, TcpClient/SslStream
