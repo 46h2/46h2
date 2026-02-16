@@ -14,7 +14,7 @@
 ## 🧩 About Me
 - 🔧 I build **fast, scalable console apps** (C# / .NET 8)
 - 🌐 Focus areas: **raw networking**, **low-latency HTTP**, **async/concurrency**
-- 🏎️ Side projects: **game server configs & tooling** (Assetto Corsa / AssettoServer)
+- 🏎️ Side projects: **Discord Bots & game server configs & tooling** (Assetto Corsa / AssettoServer)
 
 ---
 
@@ -35,6 +35,8 @@
 - ⚡ High-throughput networking clients & connection pooling
 - 🧵 Concurrency systems (producer/consumer pipelines)
 - 🔁 Auto-update + deployment workflows
+- 🤖 Developing Discord Bots
+- 💡 Learning HTML + CSS + JS + PHP
 
 
 
