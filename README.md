@@ -23,18 +23,13 @@
 - C#, Java,  SQL , Python (Beginner level)
 
 **Core**
-- .NET 8, Async/Await, Channels, Sockets, TcpClient/SslStream
-- Performance: benchmarking, profiling, memory/GC tuning
-
+- .NET 
 **Tools**
 - Visual Studio, Git, Wireshark/Fiddler-style debugging, Linux/Windows Server
 
 ---
 
 ## 🚀 What I’m Working On
-- ⚡ High-throughput networking clients & connection pooling
-- 🧵 Concurrency systems (producer/consumer pipelines)
-- 🔁 Auto-update + deployment workflows
 - 🤖 Developing Discord Bots
 - 💡 Learning HTML + CSS + JS + PHP
 
