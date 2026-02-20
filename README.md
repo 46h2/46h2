@@ -13,7 +13,7 @@
 
 ## 🧩 About Me
 - 🔧 I build **fast, scalable console apps** (C# / .NET 8)
-- 🌐 Focus areas: **raw networking**, **low-latency HTTP**, **async/concurrency**
+- 🌐 Focus areas: **raw networking**,  **async/concurrency**
 - 🏎️ Side projects: **Discord Bots & game server configs & tooling** (Assetto Corsa / AssettoServer)
 
 ---
